@@ -128,12 +128,12 @@
         "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
         "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
         "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
         "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable/background_border_gray.xml",
@@ -142,14 +142,6 @@
     {
         "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable/tutorial4.png",
         "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/drawable/tutorial4.png"
-    },
-    {
-        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable/w_logo.png",
-        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/drawable/w_logo.png"
-    },
-    {
-        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable/logo.png",
-        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/drawable/logo.png"
     },
     {
         "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
@@ -350,6 +342,10 @@
     {
         "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
         "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable/ic_logo.png",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/drawable/ic_logo.png"
     },
     {
         "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable/icon_senha.png",

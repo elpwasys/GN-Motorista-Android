@@ -332,12 +332,12 @@
         "source": "/Users/pascke/.android/build-cache/5c0bdfc6000ea9324fd1024fe6333c62a9f1f5de/output/res/drawable-hdpi-v4/places_ic_clear.png"
     },
     {
-        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/vpi__tab_selected_focused_holo.9.png",
-        "source": "/Users/pascke/.android/build-cache/51882afb313af5171be46bd55324fea95c51d452/output/res/drawable-hdpi-v4/vpi__tab_selected_focused_holo.9.png"
-    },
-    {
         "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
         "source": "/Users/pascke/.android/build-cache/8a17a071e01faaa4c0a50a9cbe5147c44b640ef9/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/vpi__tab_selected_focused_holo.9.png",
+        "source": "/Users/pascke/.android/build-cache/51882afb313af5171be46bd55324fea95c51d452/output/res/drawable-hdpi-v4/vpi__tab_selected_focused_holo.9.png"
     },
     {
         "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",

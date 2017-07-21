@@ -2,10 +2,10 @@
 <resources>
     <color name="colorPrimary">#23333D</color>
     <color name="colorPrimaryDark">#182730</color>
-    <color name="colorAccent">#ea7e40</color>
+    <color name="colorAccent">#2196F3</color>
     <color name="green">@color/colorAccent</color>
     <color name="white">#ffffff</color>
-    <color name="gold">#c75322</color>
+    <color name="gold">#76FF03</color>
     <color name="tab_background_selected">#182730</color>
     <color name="tab_background_unselected">#182730</color>
     <color name="gray_menu">#aeb2b7</color>

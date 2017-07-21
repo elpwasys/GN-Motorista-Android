@@ -1,4 +1,7 @@
-#Thu Jul 20 21:29:01 BRT 2017
-base.0=/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Jul 20 21:50:06 BRT 2017
+base.0=/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_832ad0250c221f6c08957dc1d98545be4130e372
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2de8b653c5b0b359a591a93b8a82c39e28a9ca3b/classes.dex
+base.1=/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2de8b653c5b0b359a591a93b8a82c39e28a9ca3b
+file.0=/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_832ad0250c221f6c08957dc1d98545be4130e372/classes.dex

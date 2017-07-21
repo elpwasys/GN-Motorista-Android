@@ -2,58 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/pascke/.android/build-cache/94e7a2e75ea6e426a1c7ef5253c0fe141971a4f8/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
-        <dex dex="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/pre-dexed/debug/classes_86a4efa1ead881572467ebd10391070cd39bcc76.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pascke/.android/build-cache/a1d2498adc9ddd0ffeb86e0e3e13699fc6ddcbd0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
-        <dex dex="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/pre-dexed/debug/classes_8df758a12714535e2d05e104ba5c8cc9a17bd6e7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pascke/.android/build-cache/bcec19db3bccb161fe51c8e85731f09c908c6fb6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
-        <dex dex="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/pre-dexed/debug/classes_4843a1c2a3f5dac56f56f0894e3e192ead5f7e39.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pascke/.android/build-cache/8a17a071e01faaa4c0a50a9cbe5147c44b640ef9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
-        <dex dex="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/pre-dexed/debug/classes_02cf4962200557860c6d9ffebc3a7e43f36a3e9e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pascke/.android/build-cache/6a54bc0a42f74c72372508c249787b169c682a28/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
-        <dex dex="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/pre-dexed/debug/classes_f1b3e5600cdbe00892900b2514c98bb70a7f433d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pascke/.android/build-cache/5c0bdfc6000ea9324fd1024fe6333c62a9f1f5de/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
-        <dex dex="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/pre-dexed/debug/classes_6d9390d40786786e4fc7e21d1f7453d773a5286f.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_832ad0250c221f6c08957dc1d98545be4130e372/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -62,7 +17,16 @@
         optimize="true"
         revision="25.0.0"
         sha1="c31a5010163fcdc5dac79a4e862dfe3108d387dc">
-        <dex dex="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/pre-dexed/debug/classes_b8e85ade99a7d63713e8683e524dad697ab3a545.jar" />
+        <dex dex="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/pre-dexed/release/classes_b8e85ade99a7d63713e8683e524dad697ab3a545.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acd1572766a582a8d7f5be563b46412ca4d3fd01">
+        <dex dex="/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2de8b653c5b0b359a591a93b8a82c39e28a9ca3b/classes.dex" />
     </item>
 
 </items>

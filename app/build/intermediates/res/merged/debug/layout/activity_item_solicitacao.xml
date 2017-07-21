@@ -6,7 +6,7 @@
     android:background="@color/colorPrimaryDark"
     android:orientation="vertical"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context="com.devconnit.motorista.br.com.devconnit.motorista.activities.ItemSolicitacaoActivity">
+    tools:context=".activities.ItemSolicitacaoActivity">
 
     <br.com.wasys.gn.motorista.widgets.CustomTextView
         android:id="@+id/lbl_titulo"

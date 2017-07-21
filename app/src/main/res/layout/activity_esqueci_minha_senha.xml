@@ -7,7 +7,7 @@
     android:background="@color/white"
     android:orientation="vertical"
     android:paddingTop="30dp"
-    tools:context="com.devconnit.motorista.br.com.devconnit.motorista.activities.EsqueciMinhaSenhaActivity">
+    tools:context=".activities.EsqueciMinhaSenhaActivity">
 
     <br.com.wasys.gn.motorista.widgets.CustomTextView
         android:id="@+id/txt_invalid_message"

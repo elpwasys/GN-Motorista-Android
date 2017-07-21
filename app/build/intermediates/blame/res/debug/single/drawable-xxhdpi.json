@@ -20,12 +20,12 @@
         "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_more_vert.png"
     },
     {
-        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_radio_button_checked.png",
-        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_radio_button_checked.png"
-    },
-    {
         "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_speedometer.png",
         "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_speedometer.png"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_radio_button_checked.png",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_radio_button_checked.png"
     },
     {
         "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_toll.png",

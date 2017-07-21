@@ -1,6 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        release {
+            keyAlias 'Wasys-GN-Motorista'
+            keyPassword 'schwartz'
+            storeFile file('/Users/pascke/Wasys/Projetos/GN/Android/Motorista/keystore.jks')
+            storePassword 'schwartz'
+        }
+    }
     compileSdkVersion 25
     buildToolsVersion '25.0.0'
     defaultConfig {
@@ -18,6 +26,7 @@ android {
             //buildConfigField 'String', 'BASE_URL', "\"http://192.168.100.12:8080/aceleragn/mb/\""
             buildConfigField 'String', 'GOOGLE_MAPS_API_BASE_URL', "\"https://maps.googleapis.com/maps/api/\""
             resValue 'string', 'google_maps_key', 'AIzaSyDRGbc0AN1pY22hwsoUX2lVMohw8WdeDyM'
+            signingConfig signingConfigs.release
         }
         debug {
             signingConfig signingConfigs.debug
@@ -40,5 +49,5 @@ dependencies {
     compile 'com.google.android.gms:play-services-location:9.4.0'
     compile project(':library')
     /*compile 'com.facebook.stetho:stetho:1.3.1'
-        compile 'com.facebook.stetho:stetho-okhttp3:1.3.1'*/
+                compile 'com.facebook.stetho:stetho-okhttp3:1.3.1'*/
 }
