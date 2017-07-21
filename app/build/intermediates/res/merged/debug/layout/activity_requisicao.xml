@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="br.com.wasys.gn.motorista.activities.RequisicaoActivity">
+
+    <br.com.wasys.gn.motorista.widgets.CustomTextView
+        android:id="@+id/lbl_titulo"
+        android:layout_width="fill_parent"
+        android:text="Podemos ajudar?"
+        android:layout_height="wrap_content"
+        app:custom_typeface="SourceSansPro-Bold.otf"
+        android:textColor="@color/white"
+        android:layout_margin="35dp"
+        android:gravity="center"
+        android:textSize="34sp"
+        android:layout_weight="1.0"/>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:id="@+id/layout_itens"
+        android:layout_below="@+id/lbl_titulo"
+        android:layout_height="wrap_content">
+
+        <ListView
+            android:id="@+id/list_view_opcoes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"></ListView>
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_enviar"
+        android:layout_width="fill_parent"
+        android:layout_below="@+id/layout_itens"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"
+        android:background="@drawable/selector_btn_agreement"
+        android:text="Enviar"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"/>
+
+</RelativeLayout>

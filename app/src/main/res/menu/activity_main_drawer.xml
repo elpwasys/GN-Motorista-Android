@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_termos_de_uso"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="Termos de Uso"/>
+        <item android:id="@+id/nav_definir_carro"
+            android:icon="@android:drawable/sym_contact_card"
+            android:title="Definir Carro"/>
+        <item android:id="@+id/nav_ajuda" android:icon="@android:drawable/ic_menu_help"
+            android:title="Ajuda?" />
+        <item android:id="@+id/nav_sobre" android:icon="@android:drawable/sym_action_chat"
+            android:title="Sobre" />
+        <item android:id="@+id/nav_sair" android:icon="@android:drawable/ic_lock_power_off"
+            android:title="Sair" />
+    </group>
+
+</menu>

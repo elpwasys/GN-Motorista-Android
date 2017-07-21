@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">GN Motorista</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="user_agreement_concordo_com_os_termos">Li e concordo com os termos</string>
+    <string name="entrar">Entrar</string>
+    <string name="ja_entendi">Já Entendi!</string>
+    <string name="activity_login_entrar">Entrar</string>
+    <string name="activity_login_senha">senha</string>
+    <string name="activity_login_email">e-mail</string>
+    <string name="activity_user_agreement_termos_de_uso">Termos de Uso</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab1">Confirmar Transporte</string>
+    <string name="tab2">Transportes Agendados</string>
+    <string name="title_user_agreement">TERMOS E CONDIÇÕES</string>
+    <string name="title_user_content">Os Termos de Utilização (“Termos”) regulam o acesso ou a utilização pelo Utilizador, uma pessoa particular, em qualquer local do Brasil, de aplicações, sítios web, conteúdo, produtos e serviços (os “Serviços”), disponibilizados pela Acelera GN LOCADORA DE VEICULOS LTDA EPP empresa constituída no Brasil, com sede em Rua Tomé de Souza, Nº 198, Lapa, São Paulo, SP, (“Acelera GN”).
+        POR FAVOR, LEIA ATENTAMENTE ESTES TERMOS ANTES DE ACEDER OU UTILIZAR OS SERVIÇOS.
+        O acesso e utilização dos Serviços, pelo Utilizador, constitui o seu acordo em ficar vinculado pelos presentes Termos e estabelece uma relação contratual entre o utilizador e a Acelera GN. Se não aceitar estes Termos, não poderá aceder nem utilizar os Serviços. Os presentes Termos substituem expressamente quaisquer acordos ou entendimentos com o Utilizador. A Acelera GN pode denunciar de imediato os presentes Termos ou quaisquer Serviços relacionados com o Utilizador ou, de um modo geral, deixar de oferecer ou recusar o acesso aos Serviços ou a qualquer parte dos mesmos, em qualquer momento e por qualquer motivo.
+        A Acelera GN poderá, ocasionalmente, alterar os Termos relacionados com os Serviços. As alterações produzem efeitos após a publicação, pela Acelera GN, dos Termos. A continuação do acesso ou da utilização dos Serviços após a referida publicação constitui a aceitação, do Utilizador, em ficar vinculado pelos presentes Termos na sua versão alterada.
+        A recolha e utilização, por nós, de informação pessoal com respeito aos Serviços é efetuada nos termos previstos na Política de Privacidade da Acelera GN. A Acelera GN poderá disponibilizar a um departamento de reclamações ou seguradora a informação necessária (incluindo a informação de contacto do Utilizador) na eventualidade de uma reclamação, de um litígio ou conflito, os quais podem incluir um acidente que envolva o Utilizador e um Prestador de Serviços Terceiro (incluindo um motorista de uma empresa de rede de transportes), sempre que essa informação ou dados sejam indispensáveis para a resolução da reclamação, litígio ou conflito.
+    </string>
+    <string name="title_user_content1">Os Serviços compreendem uma plataforma tecnológica que permite aos utilizadores das aplicações móveis ou sítios web da Acelera GN, disponibilizados como parte dos Serviços (cada, uma “Aplicação”), organizar e agendar serviços de transporte junto de prestadores terceiros independentes dos mesmos serviços, incluindo prestadores terceiros de serviços de transporte, por meio de contrato com a Acelera GN ou determinadas afiliadas da Acelera GN (“Prestadores Terceiros”).
+        Licença.
+        Sujeito à aceitação, pelo Utilizador, dos presentes Termos, a Acelera GN oferece-lhe uma licença limitada, não-exclusiva, não sublicenciável, revogável e não transferível para: (i) aceder e utilizar as Aplicações no seu equipamento pessoal, unicamente para efeitos da respetiva utilização dos Serviços; e (ii) aceder e utilizar qualquer conteúdo, informação e materiais relacionados que venham a ser disponibilizados através dos Serviços, em qualquer caso.
+        Restrições.
+        O Utilizador não está autorizado a: (i) remover qualquer indicação de direitos de autor, marca comercial ou outros avisos proprietários de qualquer espaço dos Serviços; (ii) reproduzir, modificar, elaborar trabalhos derivados, destruir, licenciar, alugar, vender, revender, transferir, expor ou apresentar publicamente, transmitir, reproduzir, emitir, ou de outra forma explorar os Serviços, exceto na medida do expressamente permitido pela Acelera GN; (iii) descompilar, usar engenharia reserva ou desmontar os Serviços, exceto na medida do permitido por lei aplicável; (iv) criar ligações ou reproduzir através de "frames" qualquer parte dos Serviços; (v) criar ou lançar quaisquer programas ou scripts para captar, indexar, recolher ou, de qualquer outra forma extrair dados de qualquer parte dos Serviços ou sobrecarregar indevidamente ou impossibilitar a operação e/ou funcionalidade de qualquer aspeto dos Serviços; ou (vi) tentar conseguir o acesso não autorizado ou prejudicar qualquer aspeto dos Serviços ou dos seus respetivos sistemas ou redes.
+        Prestação dos Serviços.
+        O Utilizador reconhece que é possível que sejam disponibilizadas determinadas partes dos Serviços através das várias marcas da Acelera GN ou de opções de serviços associados ao transporte.
+        Titularidade.
+        Os Serviços e todos os respetivos direitos são e mantêm-se propriedade da Acelera GN ou dos seus licenciantes. Nem os presentes Termos nem o uso dos Serviços, pelo Utilizador, lhe conferem quaisquer direitos: (i) sobre ou relacionados com os Serviços, à exceção da licença limitada concedida supra; ou (ii) para usar ou, de alguma forma fazer referência, às denominações sociais da Acelera GN, das suas Afiliadas ou dos seus respetivos licenciantes, aos seus logótipos, produtos e designações de serviços, a marcas comerciais, marcas de serviços ou outros elementos distintivos de titularidade.
+        Disposições Gerais.
+        O Utilizador não pode ceder ou transferir os presentes Termos, no seu todo ou em parte, sem o consentimento prévio, por escrito, da Acelera GN. O Utilizador autoriza a Acelera GN a ceder ou transferir os presentes Termos, no seu todo ou em parte, incluindo a: (i) uma subsidiária ou afiliada; (ii) um adquirente do capital, da empresa ou dos ativos da Acelera GN; ou (iii) um sucessor, em caso de fusão. O contrato entre o Utilizador e a Acelera GN ou a utilização dos Serviços não determina a existência de qualquer relação vertical, de parceria, trabalho ou agência entre o Utilizador, a Acelera GN e qualquer Prestador de Serviços Terceiro.
+    </string>
+    <string name="cadastrar_senha">Cadastrar Senha</string>
+    <string name="title_activity_detalhe">DetalheActivity</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="observacao">Observação</string>
+    <string name="msg_selecionar_veiculo">Favor selecionar o seu veículo</string>
+    <string name="finalizar_transporte">Finalizar Transporte</string>
+    <string name="iniciar_servico">Iniciar serviço</string>
+    <string name="atualizar">Atualizar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trechos_anteriores">Trechos anteriores</string>
+    <string name="trecho_atual">Trecho atual</string>
+    <string name="informar_destino">Informar destino</string>
+    <string name="msg_sem_internet">\"Sem sinal de internet\"</string>
+    <string name="pedagio">Pedágio</string>
+    <string name="estacionamento">Estacionamento</string>
+    <string name="concluir">Concluir</string>
+    <string name="msg_campo_obrigatorio">%1$s é obrigatório</string>
+    <string name="destino">Destino</string>
+    <string name="msg_falha_distance_matrix_api">Falha do serviço da Distance Matrix API.\nMotivo %1$s.</string>
+    <string name="rede_indisponivel">Rede indisponível</string>
+    <string name="msg_falha_http_request_status">Falha na solicitação.\nStatus code %1$d.</string>
+    <string name="distancia_km">%1$d km</string>
+    <string name="intermediario">Intermediário</string>
+    <string name="executivo">Executivo</string>
+    <string name="meia_diaria">1/2 Diária</string>
+    <string name="diaria">Diária</string>
+    <string name="pernoite">Pernoite</string>
+    <string name="translado">Translado</string>
+    <string name="pendente">Pendente</string>
+    <string name="recusada">Recusada</string>
+    <string name="andamento">Andamento</string>
+    <string name="finalizada">Finalizada</string>
+    <string name="confirmada">Confirmada</string>
+    <string name="ida_volta">Ida e Volta</string>
+    <string name="multiplos">Múltiplos</string>
+    <string name="msg_geo_local_nao_encontrado">Falha de geocodificação. Sem retorno para %1$s.</string>
+    <string name="msg_falha_distance_matrix_api_dados_insuficientes">Falha ao obter a distância e duração. Dados insuficiente.</string>
+    <string name="msg_location_provider_enable">Provedor de localização %1$s habilitado.</string>
+    <string name="msg_location_provider_disabled">Provedor de localização %1$s desabilitado.</string>
+    <string name="msg_informe_trechos">Informe os trechos</string>
+    <string name="msg_solicitacao_finalizada_sucesso">Solicitação finalizada com sucesso.</string>
+    <string name="msg_falha_localizacao_atual">Falha ao obter a localizacao atual.</string>
+    <string name="origem">Origem</string>
+    <string name="mais_trechos">+ trechos</string>
+    <string name="excluir">Excluir</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="confirma_operacao">Confirma esta operação?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="deseja_excluir_trecho">Deseja excluir este techo?</string>
+    <string name="trecho">Trecho</string>
+    <string name="msg_trecho_excluido_sucesso">Trecho excluído com sucesso</string>
+    <string name="msg_trecho_salvo_sucesso">Trecho salvo com sucesso</string>
+
+
+</resources>

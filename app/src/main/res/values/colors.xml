@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#23333D</color>
+    <color name="colorPrimaryDark">#182730</color>
+    <color name="colorAccent">#ea7e40</color>
+    <color name="green">@color/colorAccent</color>
+    <color name="white">#ffffff</color>
+    <color name="gold">#c75322</color>
+    <color name="tab_background_selected">#182730</color>
+    <color name="tab_background_unselected">#182730</color>
+    <color name="gray_menu">#aeb2b7</color>
+    <color name="user_agreement_title_color">#24333e</color>
+    <color name="user_agreement_text_color">#696d6f</color>
+    <color name="gray_list_view">#b3bcc2</color>
+    <color name="blue_list_view">#24333e</color>
+    <color name="azul_marinho_escuro">#24333e</color>
+    <color name="cinza_escuro">#696d6f</color>
+    <color name="concluir_servico_trechos">#b1bbc1</color>
+    <color name="servico_trecho">#f5f6f8</color>
+
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

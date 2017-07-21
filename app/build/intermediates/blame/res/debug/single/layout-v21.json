@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/pascke/.android/build-cache/5c0bdfc6000ea9324fd1024fe6333c62a9f1f5de/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout-v21/notification_action.xml"
+    }
+]

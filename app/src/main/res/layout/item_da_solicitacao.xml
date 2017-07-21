@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimaryDark"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent">
+
+    <CheckBox
+        android:id="@+id/chk"
+        android:button="@drawable/customdrawablecheckbox"
+        android:layout_alignParentLeft="true"
+        android:checked="false"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <br.com.wasys.gn.motorista.widgets.CustomTextView
+        android:id="@+id/lbl_titulo"
+        android:layout_width="fill_parent"
+        android:text="Preciso solicitar revisão no valor do transporte"
+        android:layout_toRightOf="@+id/chk"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content"
+        app:custom_typeface="SourceSansPro-Regular.otf"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:layout_weight="1.0"/>
+
+    <EditText
+        android:id="@+id/observacao_edit_text"
+        android:layout_below="@id/lbl_titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#696d6f"
+        android:textColor="#696d6f"
+        android:drawableLeft="@drawable/icone_notas_avaliacao"
+        android:drawablePadding="5dp"
+        android:hint="@string/observacao"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/edit_text_backgroundstyle"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:visibility="gone"
+        android:maxLength="255"
+        />
+
+
+</RelativeLayout>

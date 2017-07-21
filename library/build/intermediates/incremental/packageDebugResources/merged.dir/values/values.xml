@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aguarde">Aguarde...</string>
+    <string name="app_name">Library</string>
+    <string name="msg_out_of_memory_error">Memória insuficiente para concluir a operação. Tente novamente!</string>
+    <string name="rede_indisponivel">Rede indisponível</string>
+</resources>

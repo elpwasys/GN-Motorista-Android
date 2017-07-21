@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <br.com.wasys.gn.motorista.widgets.CustomTextView
+        android:id="@+id/textDialog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center"
+        android:text="Informar os três primeiros digitos do CPF"
+        android:textColor="@color/blue_list_view"
+        android:paddingTop="15dp"
+        android:textSize="20dp"
+        app:custom_typeface="SourceSansPro-Regular.otf" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/edt_cpf_1"
+            android:layout_width="60dp"
+            android:maxLength="1"
+            android:layout_margin="10dp"
+            android:layout_height="60dp"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:background="@drawable/edit_text_cpf"
+            android:inputType="number"
+
+            />
+
+        <EditText
+            android:id="@+id/edt_cpf_2"
+            android:layout_width="60dp"
+            android:layout_margin="10dp"
+            android:layout_height="60dp"
+            android:textAlignment="center"
+            android:maxLength="1"
+            android:textSize="20dp"
+            android:layout_toRightOf="@+id/edt_cpf_1"
+            android:background="@drawable/edit_text_cpf"
+            android:inputType="number"
+            />
+
+        <EditText
+            android:id="@+id/edt_cpf_3"
+            android:layout_width="60dp"
+            android:layout_margin="10dp"
+            android:layout_height="60dp"
+            android:maxLength="1"
+            android:textAlignment="center"
+            android:layout_toRightOf="@+id/edt_cpf_2"
+            android:textSize="20dp"
+            android:background="@drawable/edit_text_cpf"
+            android:inputType="number"
+            />
+
+    </RelativeLayout>
+
+
+
+    <LinearLayout
+        android:background="@color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn_ok"
+            android:layout_width="fill_parent"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/white"
+            android:background="@drawable/selector_btn_green_square"
+            android:text="Confirmar"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

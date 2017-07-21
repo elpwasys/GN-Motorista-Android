@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/menu/menu_scheduled_transport.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/menu/menu_scheduled_transport.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/menu/menu_menu.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/menu/menu_menu.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/menu/menu_concluir_servico.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/menu/menu_concluir_servico.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/menu/menu_scheduler_transport.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/menu/menu_scheduler_transport.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/menu/main.xml"
+    }
+]

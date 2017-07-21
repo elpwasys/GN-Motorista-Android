@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:gravity="center"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    tools:context="com.devconnit.motorista.br.com.devconnit.motorista.activities.LoginActivity">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/logo"
+        android:scaleType="fitCenter"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        />
+
+    <br.com.wasys.gn.motorista.widgets.CustomTextView
+        android:id="@+id/txt_invalid_message"
+        android:layout_width="fill_parent"
+        android:text="Dados inválidos para autenticação."
+        android:layout_height="wrap_content"
+        app:custom_typeface="SourceSansPro-Bold.otf"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:layout_marginBottom="5dp"
+        android:visibility="gone"
+        />
+
+    <EditText
+        android:id="@+id/activity_login_txtEmail"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/shape_edittext_pill"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textSize="18sp"
+        android:hint="@string/activity_login_email"
+        android:paddingLeft="20dp"
+        android:paddingStart="20dp"
+        android:paddingRight="20dp"
+        android:drawablePadding="-24dp"
+        android:drawableLeft="@android:drawable/ic_dialog_email"
+        android:drawableStart="@android:drawable/ic_dialog_email"
+        android:nextFocusDown="@+id/activity_login_txtSenha"
+        android:singleLine="true"
+        android:gravity="center"
+        android:layout_marginBottom="30dp"/>
+
+    <EditText
+        android:id="@+id/activity_login_txtSenha"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/shape_edittext_pill"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textSize="18sp"
+        android:hint="@string/activity_login_senha"
+        android:paddingLeft="24dp"
+        android:paddingStart="24dp"
+        android:singleLine="true"
+        android:paddingRight="20dp"
+        android:nextFocusDown="@+id/activity_login_btn_entrar"
+        android:password="true"
+        android:drawablePadding="-22dp"
+        android:drawableLeft="@android:drawable/ic_lock_idle_lock"
+        android:drawableStart="@android:drawable/ic_lock_idle_lock"
+        android:gravity="center"
+        android:layout_marginBottom="60dp"/>
+
+    <Button
+        android:id="@+id/activity_login_btn_entrar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="0dp"
+        android:background="@drawable/selector_btn_green_pill"
+        android:text="@string/activity_login_entrar"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/activity_login_btn_esqueci_minha_senha"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="0dp"
+        android:background="@android:color/transparent"
+        android:text="Esqueci minha senha"
+        android:textColor="@android:color/darker_gray"
+        android:textAllCaps="false"
+
+        android:textSize="12sp"/>
+
+</LinearLayout>

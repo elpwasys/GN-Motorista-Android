@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_calendar.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_calendar.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_radio_button_checked.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_radio_button_checked.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_more_vert.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_more_vert.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_schedule.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_schedule.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_park.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_park.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_toll.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_toll.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_my_location.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_my_location.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_speedometer.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_speedometer.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_place.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_place.xml"
+    }
+]

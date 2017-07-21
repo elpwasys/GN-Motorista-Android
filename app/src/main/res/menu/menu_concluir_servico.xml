@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.elp.detailmap.ScrollingActivity">
+    <item
+        android:id="@+id/action_detail"
+        android:orderInCategory="100"
+        android:title="@string/detalhes"
+        app:showAsAction="never" />
+</menu>

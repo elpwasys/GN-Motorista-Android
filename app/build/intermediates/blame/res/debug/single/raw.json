@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/raw/drop.sql",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/raw/drop.sql"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/raw/create.sql",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/raw/create.sql"
+    }
+]

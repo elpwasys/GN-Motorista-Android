@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_km_concluir_servico.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_km_concluir_servico.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_avaliacao.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_avaliacao.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_finalizar_transporte.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_finalizar_transporte.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_tutorial.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_tutorial.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_definir_carro.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_definir_carro.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_title.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_title.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_pedagio.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_pedagio.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/item_lista_carro.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/item_lista_carro.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_user_agreement.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_user_agreement.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/item_menu.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/item_menu.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_detalhe.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_detalhe.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_choose_transport.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_choose_transport.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_avaliacao_passageiro.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_avaliacao_passageiro.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_confirm.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_confirm.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/pascke/.android/build-cache/5c0bdfc6000ea9324fd1024fe6333c62a9f1f5de/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_iniciar_servico_detalhes.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_iniciar_servico_detalhes.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/pager_item.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/pager_item.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_sobre.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_sobre.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/pascke/.android/build-cache/5c0bdfc6000ea9324fd1024fe6333c62a9f1f5de/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_sair.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_sair.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/fragment_menu.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_estacionamento.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_estacionamento.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_cpf.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_cpf.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/item_fragment_realizado.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/item_fragment_realizado.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/item_scheduled_transport_menu.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/item_scheduled_transport_menu.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/autocomplete_list_item.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/autocomplete_list_item.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_partida.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_partida.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_item_solicitacao.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_item_solicitacao.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_menu.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/fragment_scheduled_transport.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/fragment_scheduled_transport.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/item_lista_solicitacao.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/item_lista_solicitacao.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_cadastrar_senha.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_cadastrar_senha.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/pascke/.android/build-cache/5c0bdfc6000ea9324fd1024fe6333c62a9f1f5de/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_requisicao.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_requisicao.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/fragment_realizado.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/fragment_realizado.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_esqueci_minha_senha.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_esqueci_minha_senha.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/item_trecho.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/item_trecho.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_servico.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_servico.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/action_bar.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/action_bar.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_begin_service.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_begin_service.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_confirm_transport.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_confirm_transport.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/activity_detalhes_agendamento.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/activity_detalhes_agendamento.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_recusar_servico.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_recusar_servico.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/pascke/.android/build-cache/5c0bdfc6000ea9324fd1024fe6333c62a9f1f5de/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/item_da_solicitacao.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/item_da_solicitacao.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/fragment_scheduler_transport.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/fragment_scheduler_transport.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/dialog_perder_os_dados.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/dialog_perder_os_dados.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/footer.xml",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/res/layout/footer.xml"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/res/layout/abc_screen_simple.xml"
+    }
+]

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        >
+
+        <RelativeLayout
+            android:id="@+id/header"
+            android:layout_width="fill_parent"
+            android:background="#23333d"
+            android:gravity="center"
+            android:padding="10dp"
+            android:layout_centerHorizontal="true"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_marginRight="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/icone_calendario" />
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/txt_data_agendamento"
+                android:layout_toRightOf="@+id/imageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Carregando..."
+                android:textSize="16dp"
+                android:gravity="center"
+                android:textColor="@color/gray_menu" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/google_maps_integration"
+            android:layout_below="@+id/header"
+            android:layout_width="fill_parent"
+            android:background="@color/white"
+            android:gravity="center"
+
+            android:layout_height="wrap_content">
+            <!--<ImageView-->
+            <!--android:id="@+id/mapa_google"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:adjustViewBounds="true"-->
+            <!--android:src="@drawable/mapa_confirmacao_transporte" />-->
+            <!--<com.google.android.gms.maps.MapView-->
+                <!--android:id = "@+id/mapa_google"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="300dp"-->
+
+                <!--/>-->
+            <fragment
+                android:id="@+id/map"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/content"
+            android:layout_below="@+id/google_maps_integration"
+            android:layout_width="fill_parent"
+            android:background="@color/white"
+            android:padding="10dp"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/foto_motorista"
+                android:layout_marginRight="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:visibility="invisible"
+                android:src="@drawable/foto_usuario_circular" />
+
+            <RelativeLayout
+                android:id="@+id/layout_dados_motorista"
+                android:layout_toRightOf="@+id/foto_motorista"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true">
+
+                <br.com.wasys.gn.motorista.widgets.CustomTextView
+                    android:id="@+id/txt_motorista"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Carregando..."
+                    android:textSize="18dp"
+                    android:layout_marginRight="5dp"
+                    android:textColor="@color/colorPrimaryDark" />
+
+                <ImageView
+                    android:id="@+id/icone_estrela"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toRightOf="@+id/txt_motorista"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:visibility="invisible"
+                    android:src="@drawable/icone_estrela" />
+
+                <br.com.wasys.gn.motorista.widgets.CustomTextView
+                    android:id="@+id/txt_nota_motorista"
+                    android:layout_toRightOf="@+id/icone_estrela"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="9,2"
+                    android:textSize="14dp"
+                    android:visibility="invisible"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginRight="10dp"
+                    android:textColor="@color/gold" />
+
+                <br.com.wasys.gn.motorista.widgets.CustomTextView
+                    android:id="@+id/txt_carro"
+                    android:visibility="invisible"
+                    android:layout_toRightOf="@+id/txt_nota_motorista"
+                    android:layout_width="fill_parent"
+                    android:gravity="right"
+                    android:layout_height="wrap_content"
+                    android:text="Corolla"
+                    android:textSize="16dp"
+                    android:textColor="@color/colorPrimaryDark" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout_dados_telefone_motorista"
+                android:layout_below="@+id/layout_dados_motorista"
+                android:layout_toRightOf="@+id/foto_motorista"
+                android:layout_marginLeft="5dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true">
+
+                <br.com.wasys.gn.motorista.widgets.CustomTextView
+                    android:id="@+id/txt_telefone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="11 33425712"
+                    android:textSize="14dp"
+                    android:visibility="invisible"
+
+                    android:textColor="@color/gray_menu" />
+
+                <br.com.wasys.gn.motorista.widgets.CustomTextView
+                    android:id="@+id/txt_tipo_corrida"
+                    android:layout_below="@+id/txt_telefone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Carregando..."
+                    android:textSize="14dp"
+
+                    android:textColor="@color/gray_menu" />
+
+                <br.com.wasys.gn.motorista.widgets.CustomTextView
+                    android:id="@+id/txt_tipo_transporte"
+                    android:visibility="invisible"
+                    android:layout_toRightOf="@+id/txt_tipo_corrida"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Executivo"
+                    android:textSize="14dp"
+                    android:gravity="right"
+                    android:textColor="@color/gray_menu" />
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/layout_motorista_detalhes"
+            android:layout_width="fill_parent"
+            android:layout_below="@+id/content"
+            android:background="@drawable/background_border_gray"
+            android:paddingBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/icone_confirmacao"
+                android:layout_marginLeft="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/icone_confirmar" />
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/txt_status_confirmado"
+                android:layout_toRightOf="@+id/icone_confirmacao"
+                android:layout_marginTop="2dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gray_menu"
+                android:text="Carregando..."
+                android:layout_marginLeft="10dp"
+                android:textSize="14dp" />
+
+            <ImageView
+                android:id="@+id/icone_diaria"
+                android:layout_toRightOf="@+id/txt_status_confirmado"
+                android:layout_marginLeft="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/icone_meia_diaria" />
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/txt_meia_diaria"
+                android:layout_toRightOf="@+id/icone_diaria"
+                android:layout_marginTop="2dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gray_menu"
+                android:text="Carregando"
+                android:layout_marginLeft="10dp"
+                android:textSize="14dp" />
+
+            <ImageView
+                android:id="@+id/icone_distancia"
+                android:layout_toRightOf="@+id/txt_meia_diaria"
+                android:layout_marginLeft="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/icone_distancia" />
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/txt_distancia"
+                android:layout_toRightOf="@+id/icone_distancia"
+                android:layout_marginTop="2dp"
+                android:layout_width="fill_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gray_menu"
+                android:text="0"
+                android:textSize="14dp" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_codigo"
+            android:layout_width="fill_parent"
+            android:layout_below="@+id/layout_motorista_detalhes"
+            android:background="@drawable/background_border_gray"
+            android:paddingBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content">
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/lbl_codigo"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:text="Código"
+                android:layout_marginLeft="20dp"
+                android:textSize="16dp" />
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/txt_codigo"
+                android:layout_toRightOf="@+id/lbl_codigo"
+                android:layout_marginTop="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gold"
+                android:gravity="right"
+                android:text="Carregando..."
+                android:textSize="16dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_partida"
+            android:layout_width="fill_parent"
+            android:layout_below="@+id/layout_codigo"
+            android:background="@drawable/background_border_gray"
+            android:paddingBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content">
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/lbl_partida"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:text="Partida"
+                android:layout_marginLeft="20dp"
+                android:textSize="16dp" />
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/txt_partida"
+                android:layout_toRightOf="@+id/lbl_partida"
+                android:layout_marginTop="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gray_menu"
+                android:gravity="right"
+                android:text="Carregando..."
+                android:layout_marginLeft="20dp"
+                android:textSize="16dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_chegada"
+            android:layout_width="fill_parent"
+            android:layout_below="@+id/layout_partida"
+            android:background="@drawable/background_border_gray"
+            android:paddingBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content">
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/lbl_chegada"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:text="Chegada"
+                android:layout_marginLeft="20dp"
+                android:textSize="16dp" />
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/txt_chegada"
+                android:layout_toRightOf="@+id/lbl_chegada"
+                android:layout_marginTop="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gray_menu"
+                android:gravity="right"
+                android:text="Carregando..."
+                android:layout_marginLeft="20dp"
+                android:textSize="16dp" />
+        </RelativeLayout>
+
+
+
+        <RelativeLayout
+            android:id="@+id/layout_duracao"
+            android:layout_width="fill_parent"
+            android:layout_below="@+id/layout_chegada"
+            android:background="@drawable/background_border_gray"
+            android:paddingBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content">
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/lbl_duracao"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:text="Distância"
+                android:layout_marginLeft="20dp"
+                android:textSize="16dp" />
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/txt_duracao"
+                android:layout_toRightOf="@+id/lbl_duracao"
+                android:layout_marginTop="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gold"
+                android:gravity="right"
+                android:text="Carregando..."
+                android:layout_marginLeft="20dp"
+                android:textSize="16dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_observacao"
+            android:layout_width="fill_parent"
+            android:layout_below="@+id/layout_duracao"
+            android:background="@drawable/background_border_gray"
+            android:paddingBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content">
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/lbl_observacao"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:text="Observações"
+                android:layout_marginLeft="20dp"
+                android:textSize="16dp" />
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/txt_observacoes"
+                android:layout_toRightOf="@+id/lbl_observacao"
+                android:layout_marginTop="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gold"
+                android:gravity="right"
+                android:text="Carregando..."
+                android:layout_marginLeft="20dp"
+                android:textSize="16dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_valor"
+            android:layout_width="fill_parent"
+            android:layout_below="@+id/layout_observacao"
+            android:background="@drawable/background_border_gray"
+            android:paddingBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content">
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/lbl_valor"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimaryDark"
+                android:text="Valor"
+                android:layout_marginLeft="20dp"
+                android:textSize="16dp" />
+
+            <br.com.wasys.gn.motorista.widgets.CustomTextView
+                android:id="@+id/txt_valor"
+                android:layout_toRightOf="@+id/lbl_valor"
+                android:layout_marginTop="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/gold"
+                android:gravity="right"
+                android:text="Valor"
+                android:layout_marginLeft="20dp"
+                android:textSize="16dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_buttons"
+            android:layout_margin="10dp"
+            android:layout_below="@+id/layout_valor"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent">
+
+            <Button
+                android:id="@+id/btn_aceitar"
+                android:layout_width="180dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/selector_btn_agreement"
+                android:text="Aceitar"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"/>
+
+
+            <Button
+                android:id="@+id/btn_recusar"
+                android:layout_width="180dp"
+                android:layout_toRightOf="@+id/btn_aceitar"
+                android:background="@drawable/selector_btn_agreement"
+                android:text="Recusar"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"/>
+
+
+        </RelativeLayout>
+
+
+
+
+    </RelativeLayout>
+</ScrollView>

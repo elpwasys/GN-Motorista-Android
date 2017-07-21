@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="aguarde">Aguarde...</string>
+    <string name="rede_indisponivel">Rede indisponível</string>
+    <string name="msg_out_of_memory_error">Memória insuficiente para concluir a operação. Tente novamente!</string>
+</resources>

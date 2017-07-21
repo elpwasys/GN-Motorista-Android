@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/pascke/.android/build-cache/bcec19db3bccb161fe51c8e85731f09c908c6fb6/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:7:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/pascke/.android/build-cache/bcec19db3bccb161fe51c8e85731f09c908c6fb6/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:11:22-78
+application
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:13:5-93:19
+MERGED from [com.android.support:design:25.1.1] /Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.1] /Users/pascke/.android/build-cache/37b579d76b714ebe898065accede9697af3402e9/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/pascke/.android/build-cache/5c0bdfc6000ea9324fd1024fe6333c62a9f1f5de/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/pascke/.android/build-cache/bcec19db3bccb161fe51c8e85731f09c908c6fb6/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/pascke/.android/build-cache/a1d2498adc9ddd0ffeb86e0e3e13699fc6ddcbd0/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/pascke/.android/build-cache/8a17a071e01faaa4c0a50a9cbe5147c44b640ef9/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/pascke/.android/build-cache/94e7a2e75ea6e426a1c7ef5253c0fe141971a4f8/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/pascke/.android/build-cache/6a54bc0a42f74c72372508c249787b169c682a28/output/AndroidManifest.xml:20:5-24:19
+MERGED from [Motorista:library:unspecified] /Users/pascke/Wasys/Projetos/GN/Android/Motorista/library/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/pascke/.android/build-cache/971a30ae0718b43ed33c9f0a14ff11794731f1ed/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/pascke/.android/build-cache/12a7b0ed5cd2c53adc120a90177d6e020fff76d8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/pascke/.android/build-cache/6d6f20db70be7ae3b8a87c5483d5fbf41d60c0dd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/pascke/.android/build-cache/5d09ae668ec5ade0fad24e8edfd6fbab8b72ce97/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/pascke/.android/build-cache/55f0027a0708ea8b166933c576b7be3afbcc6f4f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/pascke/.android/build-cache/e73f57bf755f1c072784754639f4a56ad2167c68/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/pascke/.android/build-cache/20b358f73b503e4b991e30c3d25058204330810c/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/pascke/.android/build-cache/b96bafb7ae71935adfed6da01b5b2a215065056b/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:14:9-36
+meta-data#com.google.android.gms.version
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:20:9-22:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/pascke/.android/build-cache/6a54bc0a42f74c72372508c249787b169c682a28/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:22:13-66
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:21:13-58
+uses-library#com.google.android.maps
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:24:9-26:39
+	android:required
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:25:13-51
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:29:13-58
+activity#br.com.wasys.gn.motorista.activities.MainActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:32:9-36:59
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:34:13-45
+	android:theme
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:33:13-52
+activity#br.com.wasys.gn.motorista.activities.LoginActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:37:9-46:20
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:39:13-49
+	android:theme
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:38:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:44:27-74
+activity#br.com.wasys.gn.motorista.activities.UserAgreementActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:47:9-49:52
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:48:13-61
+activity#br.com.wasys.gn.motorista.activities.TutorialActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:50:9-52:52
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:51:13-56
+activity#br.com.wasys.gn.motorista.activities.MenuActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:53:9-57:59
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:55:13-56
+	android:theme
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:54:13-52
+activity#br.com.wasys.gn.motorista.activities.ChooseTransportActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:58:9-60:52
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:59:13-63
+activity#br.com.wasys.gn.motorista.activities.ConfirmTransportActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:61:9-63:52
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:62:13-64
+activity#br.com.wasys.gn.motorista.activities.EsqueciMinhaSenhaActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:64:9-66:52
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:65:13-65
+activity#br.com.wasys.gn.motorista.activities.DefinirCarroActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:67:9-69:52
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:68:13-60
+activity#br.com.wasys.gn.motorista.activities.IniciarServicoDetalhesActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:70:9-72:52
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:72:13-49
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:71:13-70
+activity#br.com.wasys.gn.motorista.activities.AvaliacaoPassageiroActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:73:9-75:52
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:75:13-49
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:74:13-67
+activity#br.com.wasys.gn.motorista.activities.RequisicaoActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:76:9-67
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:76:19-64
+activity#br.com.wasys.gn.motorista.activities.ItemSolicitacaoActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:77:9-79:52
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:78:13-63
+activity#br.com.wasys.gn.motorista.activities.DetalheActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:80:9-82:52
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:81:13-55
+activity#br.com.wasys.gn.motorista.activities.ServicoActivity
+ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:83:9-91:20
+	android:screenOrientation
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:85:13-49
+	android:name
+		ADDED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml:84:13-55
+uses-sdk
+INJECTED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] /Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /Users/pascke/.android/build-cache/db116030183094aba23f0b74e39f2cb89128b9c3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] /Users/pascke/.android/build-cache/37b579d76b714ebe898065accede9697af3402e9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.github.JakeWharton:ViewPagerIndicator:2.4.1] /Users/pascke/.android/build-cache/51882afb313af5171be46bd55324fea95c51d452/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/pascke/.android/build-cache/5c0bdfc6000ea9324fd1024fe6333c62a9f1f5de/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/pascke/.android/build-cache/bcec19db3bccb161fe51c8e85731f09c908c6fb6/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/pascke/.android/build-cache/a1d2498adc9ddd0ffeb86e0e3e13699fc6ddcbd0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/pascke/.android/build-cache/8a17a071e01faaa4c0a50a9cbe5147c44b640ef9/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/pascke/.android/build-cache/94e7a2e75ea6e426a1c7ef5253c0fe141971a4f8/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/pascke/.android/build-cache/6a54bc0a42f74c72372508c249787b169c682a28/output/AndroidManifest.xml:18:5-42
+MERGED from [Motorista:library:unspecified] /Users/pascke/Wasys/Projetos/GN/Android/Motorista/library/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/pascke/.android/build-cache/fe936f4fd8a24d966c8b7c311638d72a73c441e8/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] /Users/pascke/.android/build-cache/971a30ae0718b43ed33c9f0a14ff11794731f1ed/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/pascke/.android/build-cache/12a7b0ed5cd2c53adc120a90177d6e020fff76d8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/pascke/.android/build-cache/6d6f20db70be7ae3b8a87c5483d5fbf41d60c0dd/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/pascke/.android/build-cache/5d09ae668ec5ade0fad24e8edfd6fbab8b72ce97/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/pascke/.android/build-cache/55f0027a0708ea8b166933c576b7be3afbcc6f4f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/pascke/.android/build-cache/e73f57bf755f1c072784754639f4a56ad2167c68/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/pascke/.android/build-cache/20b358f73b503e4b991e30c3d25058204330810c/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] /Users/pascke/.android/build-cache/b96bafb7ae71935adfed6da01b5b2a215065056b/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] /Users/pascke/.android/build-cache/b9d865373279b53fe124f3bc9fcf7f0120513217/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/pascke/.android/build-cache/bcec19db3bccb161fe51c8e85731f09c908c6fb6/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/pascke/.android/build-cache/bcec19db3bccb161fe51c8e85731f09c908c6fb6/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/pascke/.android/build-cache/bcec19db3bccb161fe51c8e85731f09c908c6fb6/output/AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/pascke/.android/build-cache/8a17a071e01faaa4c0a50a9cbe5147c44b640ef9/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/pascke/.android/build-cache/8a17a071e01faaa4c0a50a9cbe5147c44b640ef9/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/pascke/.android/build-cache/8a17a071e01faaa4c0a50a9cbe5147c44b640ef9/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/pascke/.android/build-cache/8a17a071e01faaa4c0a50a9cbe5147c44b640ef9/output/AndroidManifest.xml:20:19-85

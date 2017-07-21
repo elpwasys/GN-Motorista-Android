@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <br.com.wasys.gn.motorista.widgets.CustomTextView
+        android:id="@+id/textDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center"
+        android:text="Atenção!"
+        android:textColor="@color/blue_list_view"
+        android:paddingTop="15dp"
+        android:textSize="30dp"
+        app:custom_typeface="SourceSansPro-Regular.otf" />
+
+    <br.com.wasys.gn.motorista.widgets.CustomTextView
+        android:id="@+id/txt_hour_scheduled"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="Deseja aceitar esse transporte?"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/gray_list_view"
+        android:textSize="14dp"
+        app:custom_typeface="SourceSansPro-BoldIt.otf" />
+
+    <LinearLayout
+        android:background="@color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn_ok"
+            android:layout_width="160dp"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/white"
+            android:background="@drawable/selector_btn_green_square"
+            android:text="Sim"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="160dp"
+            android:textColor="@color/white"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/selector_btn_green_square"
+            android:text="Não"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

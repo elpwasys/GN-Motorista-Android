@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_place.png",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-hdpi/ic_place.png"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_calendar.png",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-hdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_speedometer.png",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-hdpi/ic_speedometer.png"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_schedule.png",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-hdpi/ic_schedule.png"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_my_location.png",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-hdpi/ic_my_location.png"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_more_vert.png",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-hdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_park.png",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-hdpi/ic_park.png"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_radio_button_checked.png",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-hdpi/ic_radio_button_checked.png"
+    },
+    {
+        "merged": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_toll.png",
+        "source": "/Users/pascke/Wasys/Projetos/GN/Android/Motorista/app/build/generated/res/pngs/debug/drawable-hdpi/ic_toll.png"
+    }
+]

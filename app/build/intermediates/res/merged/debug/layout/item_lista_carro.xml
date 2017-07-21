@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_item"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+
+    <br.com.wasys.gn.motorista.widgets.CustomTextView
+        android:id="@+id/txt_nome_do_carro"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Nome do Carro"
+        android:textSize="22dp"
+        android:layout_marginBottom="3dp"
+        android:textColor="@color/colorPrimary"
+        app:custom_typeface="SourceSansPro-Regular.otf" />
+
+    <br.com.wasys.gn.motorista.widgets.CustomTextView
+        android:id="@+id/txt_placa_do_carro"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Placa do Carro"
+        android:textSize="18dp"
+        android:textColor="@color/gold"
+        app:custom_typeface="SourceSansPro-Regular.otf" />
+
+</LinearLayout>

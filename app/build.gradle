@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.0'
+    defaultConfig {
+        applicationId "br.com.wasys.gn.motorista"
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField 'String', 'BASE_URL', "\"http://mlife02.wasys.com.br:8080/aceleragn/mb/\""
+            //buildConfigField 'String', 'BASE_URL', "\"http://192.168.100.12:8080/aceleragn/mb/\""
+            buildConfigField 'String', 'GOOGLE_MAPS_API_BASE_URL', "\"https://maps.googleapis.com/maps/api/\""
+            resValue 'string', 'google_maps_key', 'AIzaSyDRGbc0AN1pY22hwsoUX2lVMohw8WdeDyM'
+        }
+        debug {
+            signingConfig signingConfigs.debug
+            //buildConfigField 'String', 'BASE_URL', "\"http://mlife02.wasys.com.br:8080/aceleragn/mb/\""
+            buildConfigField 'String', 'BASE_URL', "\"http://192.168.100.4:8080/aceleragn/mb/\""
+            buildConfigField 'String', 'GOOGLE_MAPS_API_BASE_URL', "\"https://maps.googleapis.com/maps/api/\""
+            resValue 'string', 'google_maps_key', 'AIzaSyDRGbc0AN1pY22hwsoUX2lVMohw8WdeDyM'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:design:25.1.1'
+    compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.github.JakeWharton:ViewPagerIndicator:2.4.1@aar'
+    compile 'com.google.android.gms:play-services-maps:9.4.0'
+    compile 'com.google.android.gms:play-services-places:9.4.0'
+    compile 'com.google.android.gms:play-services-location:9.4.0'
+    compile project(':library')
+    /*compile 'com.facebook.stetho:stetho:1.3.1'
+        compile 'com.facebook.stetho:stetho-okhttp3:1.3.1'*/
+}

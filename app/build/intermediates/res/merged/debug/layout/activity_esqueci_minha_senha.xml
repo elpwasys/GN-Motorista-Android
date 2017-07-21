@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:paddingTop="30dp"
+    tools:context="com.devconnit.motorista.br.com.devconnit.motorista.activities.EsqueciMinhaSenhaActivity">
+
+    <br.com.wasys.gn.motorista.widgets.CustomTextView
+        android:id="@+id/txt_invalid_message"
+        android:layout_width="fill_parent"
+        android:text="Dados inválidos para autenticação."
+        android:layout_height="wrap_content"
+        app:custom_typeface="SourceSansPro-Bold.otf"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:layout_marginBottom="5dp"
+        android:visibility="gone"
+        />
+
+    <EditText
+        android:id="@+id/activity_esqueci_minha_senha_cpf"
+        android:layout_width="fill_parent"
+        android:layout_below="@+id/txt_invalid_message"
+        android:layout_height="wrap_content"
+        android:textColor="#696d6f"
+        android:hint="CPF"
+        android:inputType="number"
+        android:drawablePadding="5dp"
+        android:drawableLeft="@drawable/icone_pessoa_cinza"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/edit_text_backgroundstyle"
+        />
+
+    <EditText
+        android:id="@+id/activity_esqueci_minha_senha_data_de_nascimento"
+        android:layout_below="@+id/activity_esqueci_minha_senha_cpf"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#696d6f"
+        android:textColor="#696d6f"
+        android:hint="Data de Nascimento"
+        android:visibility="gone"
+        android:drawableLeft="@drawable/icone_calendario_cinza"
+        android:drawablePadding="5dp"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/edit_text_backgroundstyle"
+        />
+
+    <EditText
+        android:id="@+id/activity_esqueci_minha_senha_senha"
+        android:layout_below="@+id/activity_esqueci_minha_senha_data_de_nascimento"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#696d6f"
+        android:textColor="#696d6f"
+        android:drawableLeft="@drawable/icone_cadeado_cinza"
+        android:drawablePadding="5dp"
+        android:hint="Senha"
+        android:password="true"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/edit_text_backgroundstyle"
+        />
+
+    <EditText
+        android:id="@+id/activity_esqueci_minha_senha_confirmacao_senha"
+        android:layout_below="@+id/activity_esqueci_minha_senha_senha"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#696d6f"
+        android:textColor="#696d6f"
+        android:hint="Confirmação de Senha"
+        android:drawableLeft="@drawable/icone_cadeado_cinza"
+        android:drawablePadding="5dp"
+        android:password="true"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/edit_text_backgroundstyle"
+        />
+
+    <Button
+        android:id="@+id/activity_esqueci_minha_senha_btn_cadastrar"
+        android:layout_alignParentBottom="true"
+        android:layout_width="fill_parent"
+        android:background="@drawable/selector_btn_agreement"
+        android:text="@string/cadastrar_senha"
+        android:layout_gravity="bottom"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"/>
+
+
+
+</RelativeLayout>
